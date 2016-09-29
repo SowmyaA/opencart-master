@@ -1,5 +1,5 @@
 <?php
-class ControllerTestHelloworld extends Controller {
+class ControllerTestabc extends Controller {
     public function index()
      {
           echo 'Hello World';
